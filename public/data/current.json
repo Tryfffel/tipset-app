@@ -5,27 +5,27 @@
     "system": "6S+5H+2HG",
     "rows": 288,
     "cost": 288,
-    "timestamp": "2026-04-06T12:57:53.206731",
+    "timestamp": "2026-04-06T13:08:43.994650",
     "matches": [
       {
         "nr": 1,
         "home": "Real Madrid",
         "away": "Bayern München",
-        "folk": "32/25/44",
+        "folk": "36/29/35",
         "model": "37/24/39",
-        "value": 1.17,
-        "sign": "1",
-        "recommendation": "1X2",
-        "type": "full"
+        "value": 1.12,
+        "sign": "2",
+        "recommendation": "2",
+        "type": "spike"
       },
       {
         "nr": 2,
         "home": "Sporting Lissabon",
         "away": "Arsenal",
-        "folk": "20/26/54",
+        "folk": "17/22/61",
         "model": "20/26/54",
-        "value": 1.0,
-        "sign": "1",
+        "value": 1.18,
+        "sign": "X",
         "recommendation": "2",
         "type": "spike"
       },
@@ -33,54 +33,54 @@
         "nr": 3,
         "home": "Paris Saint-Germain",
         "away": "Liverpool",
-        "folk": "56/23/21",
+        "folk": "67/18/15",
         "model": "37/22/41",
-        "value": 1.99,
+        "value": 2.75,
         "sign": "2",
-        "recommendation": "1X2",
-        "type": "full"
+        "recommendation": "X2",
+        "type": "half"
       },
       {
         "nr": 4,
         "home": "Barcelona",
         "away": "Atlético Madrid",
-        "folk": "62/20/18",
+        "folk": "76/16/8",
         "model": "53/23/24",
-        "value": 1.34,
+        "value": 3.03,
         "sign": "2",
-        "recommendation": "12",
-        "type": "half"
+        "recommendation": "1X2",
+        "type": "full"
       },
       {
         "nr": 5,
         "home": "Braga",
         "away": "Real Betis",
-        "folk": "37/29/34",
+        "folk": "47/29/24",
         "model": "37/29/34",
-        "value": 1.0,
-        "sign": "1",
-        "recommendation": "1X",
+        "value": 1.41,
+        "sign": "2",
+        "recommendation": "12",
         "type": "half"
       },
       {
         "nr": 6,
         "home": "Wrexham",
         "away": "Southampton",
-        "folk": "35/28/37",
+        "folk": "31/22/47",
         "model": "35/28/37",
-        "value": 1.0,
-        "sign": "2",
-        "recommendation": "12",
-        "type": "half"
+        "value": 1.26,
+        "sign": "X",
+        "recommendation": "2",
+        "type": "spike"
       },
       {
         "nr": 7,
         "home": "Port Vale",
         "away": "Rotherham",
-        "folk": "38/29/33",
+        "folk": "41/27/32",
         "model": "38/29/33",
-        "value": 1.0,
-        "sign": "2",
+        "value": 1.07,
+        "sign": "X",
         "recommendation": "1",
         "type": "spike"
       },
@@ -88,54 +88,54 @@
         "nr": 8,
         "home": "Bromley",
         "away": "Shrewsbury",
-        "folk": "55/27/18",
+        "folk": "80/13/7",
         "model": "55/27/18",
-        "value": 1.0,
+        "value": 2.63,
         "sign": "2",
-        "recommendation": "1",
-        "type": "spike"
+        "recommendation": "12",
+        "type": "half"
       },
       {
         "nr": 9,
         "home": "Ayr United",
         "away": "Dunfermline",
-        "folk": "33/33/33",
+        "folk": "33/29/38",
         "model": "33/33/33",
-        "value": 1.0,
-        "sign": "1",
-        "recommendation": "1X",
-        "type": "half"
-      },
-      {
-        "nr": 10,
-        "home": "Montrose",
-        "away": "Cove Rangers",
-        "folk": "33/33/33",
-        "model": "33/33/33",
-        "value": 1.0,
-        "sign": "1",
-        "recommendation": "1X",
-        "type": "half"
-      },
-      {
-        "nr": 11,
-        "home": "Always Ready",
-        "away": "LDU Quito",
-        "folk": "39/27/34",
-        "model": "39/27/34",
-        "value": 1.0,
+        "value": 1.15,
         "sign": "X",
         "recommendation": "1",
         "type": "spike"
       },
       {
+        "nr": 10,
+        "home": "Montrose",
+        "away": "Cove Rangers",
+        "folk": "75/15/10",
+        "model": "33/33/33",
+        "value": 3.33,
+        "sign": "2",
+        "recommendation": "1X2",
+        "type": "full"
+      },
+      {
+        "nr": 11,
+        "home": "Always Ready",
+        "away": "LDU Quito",
+        "folk": "58/23/19",
+        "model": "39/27/34",
+        "value": 1.77,
+        "sign": "2",
+        "recommendation": "12",
+        "type": "half"
+      },
+      {
         "nr": 12,
         "home": "Deportivo La Guaira",
         "away": "Fluminense",
-        "folk": "19/26/56",
+        "folk": "14/21/65",
         "model": "19/26/56",
-        "value": 1.0,
-        "sign": "X",
+        "value": 1.33,
+        "sign": "1",
         "recommendation": "2",
         "type": "spike"
       },
@@ -143,12 +143,12 @@
         "nr": 13,
         "home": "Universidad Católica",
         "away": "Boca Juniors",
-        "folk": "26/30/44",
+        "folk": "16/30/54",
         "model": "26/30/44",
-        "value": 1.0,
-        "sign": "X",
-        "recommendation": "2",
-        "type": "spike"
+        "value": 1.64,
+        "sign": "1",
+        "recommendation": "12",
+        "type": "half"
       }
     ]
   },
@@ -158,7 +158,7 @@
     "system": "4S+3H+1HG",
     "rows": 24,
     "cost": 24,
-    "timestamp": "2026-04-06T12:57:53.689592",
+    "timestamp": "2026-04-06T13:08:44.465620",
     "matches": []
   },
   {
@@ -167,7 +167,7 @@
     "system": "4S+3H+1HG",
     "rows": 24,
     "cost": 24,
-    "timestamp": "2026-04-06T12:57:53.595833",
+    "timestamp": "2026-04-06T13:08:44.372321",
     "matches": []
   }
 ]
