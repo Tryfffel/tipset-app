@@ -2,30 +2,30 @@
   {
     "product": "europatipset",
     "draw_number": 2564,
-    "system": "6S+5H+2HG",
-    "rows": 288,
-    "cost": 288,
-    "timestamp": "2026-04-06T19:55:34.077321",
+    "system": "7S+4H+2HG",
+    "rows": 144,
+    "cost": 144,
+    "timestamp": "2026-04-07T02:40:51.026611",
     "matches": [
       {
         "nr": 1,
         "home": "Real Madrid",
         "away": "Bayern München",
-        "folk": "36/29/35",
-        "model": "38/24/39",
-        "value": 1.11,
+        "folk": "36/28/36",
+        "model": "38/23/39",
+        "value": 1.08,
         "sign": "2",
-        "recommendation": "2",
-        "type": "spike"
+        "recommendation": "12",
+        "type": "half"
       },
       {
         "nr": 2,
         "home": "Sporting Lissabon",
         "away": "Arsenal",
         "folk": "17/22/61",
-        "model": "20/26/54",
-        "value": 1.2,
-        "sign": "X",
+        "model": "21/27/52",
+        "value": 1.24,
+        "sign": "1",
         "recommendation": "2",
         "type": "spike"
       },
@@ -33,9 +33,9 @@
         "nr": 3,
         "home": "Paris Saint-Germain",
         "away": "Liverpool",
-        "folk": "68/17/15",
+        "folk": "67/17/16",
         "model": "37/22/41",
-        "value": 2.75,
+        "value": 2.57,
         "sign": "2",
         "recommendation": "2",
         "type": "spike"
@@ -44,29 +44,29 @@
         "nr": 4,
         "home": "Barcelona",
         "away": "Atlético Madrid",
-        "folk": "76/16/8",
+        "folk": "76/15/9",
         "model": "53/23/24",
-        "value": 3.04,
+        "value": 2.69,
         "sign": "2",
-        "recommendation": "1X2",
-        "type": "full"
+        "recommendation": "1",
+        "type": "spike"
       },
       {
         "nr": 5,
         "home": "Braga",
         "away": "Real Betis",
-        "folk": "47/29/24",
+        "folk": "47/30/23",
         "model": "37/29/34",
-        "value": 1.41,
+        "value": 1.47,
         "sign": "2",
-        "recommendation": "12",
-        "type": "half"
+        "recommendation": "1X2",
+        "type": "full"
       },
       {
         "nr": 6,
         "home": "Wrexham",
         "away": "Southampton",
-        "folk": "32/22/46",
+        "folk": "31/22/47",
         "model": "35/28/37",
         "value": 1.26,
         "sign": "X",
@@ -77,23 +77,23 @@
         "nr": 7,
         "home": "Port Vale",
         "away": "Rotherham",
-        "folk": "43/27/30",
+        "folk": "43/26/31",
         "model": "38/29/33",
-        "value": 1.09,
-        "sign": "2",
-        "recommendation": "1",
-        "type": "spike"
+        "value": 1.11,
+        "sign": "X",
+        "recommendation": "1X",
+        "type": "half"
       },
       {
         "nr": 8,
         "home": "Bromley",
         "away": "Shrewsbury",
-        "folk": "80/13/7",
+        "folk": "81/12/7",
         "model": "55/27/18",
         "value": 2.63,
         "sign": "2",
-        "recommendation": "12",
-        "type": "half"
+        "recommendation": "1",
+        "type": "spike"
       },
       {
         "nr": 9,
@@ -110,7 +110,7 @@
         "nr": 10,
         "home": "Montrose",
         "away": "Cove Rangers",
-        "folk": "74/15/11",
+        "folk": "75/14/11",
         "model": "33/33/33",
         "value": 3.03,
         "sign": "2",
@@ -121,9 +121,9 @@
         "nr": 11,
         "home": "Always Ready",
         "away": "LDU Quito",
-        "folk": "59/24/17",
-        "model": "38/28/34",
-        "value": 2.01,
+        "folk": "59/23/18",
+        "model": "40/27/33",
+        "value": 1.83,
         "sign": "2",
         "recommendation": "12",
         "type": "half"
@@ -145,10 +145,10 @@
         "away": "Boca Juniors",
         "folk": "16/30/54",
         "model": "26/30/44",
-        "value": 1.64,
+        "value": 1.65,
         "sign": "1",
-        "recommendation": "12",
-        "type": "half"
+        "recommendation": "2",
+        "type": "spike"
       }
     ]
   },
@@ -158,15 +158,15 @@
     "system": "6S+5H+2HG",
     "rows": 288,
     "cost": 288,
-    "timestamp": "2026-04-06T19:55:33.805429",
+    "timestamp": "2026-04-07T02:40:50.844652",
     "matches": [
       {
         "nr": 1,
         "home": "Liverpool",
         "away": "Fulham",
-        "folk": "52/22/26",
+        "folk": "53/21/26",
         "model": "64/20/16",
-        "value": 1.22,
+        "value": 1.2,
         "sign": "1",
         "recommendation": "1",
         "type": "spike"
@@ -186,9 +186,9 @@
         "nr": 3,
         "home": "Burnley",
         "away": "Brighton",
-        "folk": "45/24/31",
+        "folk": "44/24/32",
         "model": "26/28/46",
-        "value": 1.5,
+        "value": 1.45,
         "sign": "2",
         "recommendation": "X2",
         "type": "half"
@@ -219,9 +219,9 @@
         "nr": 6,
         "home": "Middlesbrough",
         "away": "Portsmouth",
-        "folk": "45/25/30",
+        "folk": "46/25/29",
         "model": "57/23/20",
-        "value": 1.26,
+        "value": 1.24,
         "sign": "1",
         "recommendation": "1",
         "type": "spike"
@@ -252,9 +252,9 @@
         "nr": 9,
         "home": "Southampton",
         "away": "Derby",
-        "folk": "43/26/31",
+        "folk": "44/26/30",
         "model": "55/26/19",
-        "value": 1.28,
+        "value": 1.25,
         "sign": "1",
         "recommendation": "1",
         "type": "spike"
@@ -311,7 +311,7 @@
     "system": "4S+3H+1HG",
     "rows": 24,
     "cost": 24,
-    "timestamp": "2026-04-06T19:55:34.517760",
+    "timestamp": "2026-04-07T02:40:51.520994",
     "matches": []
   },
   {
@@ -320,7 +320,7 @@
     "system": "4S+3H+1HG",
     "rows": 24,
     "cost": 24,
-    "timestamp": "2026-04-06T19:55:34.425403",
+    "timestamp": "2026-04-07T02:40:51.426166",
     "matches": []
   },
   {
@@ -329,7 +329,7 @@
     "system": "4S+3H+1HG",
     "rows": 24,
     "cost": 24,
-    "timestamp": "2026-04-06T19:55:34.580656",
+    "timestamp": "2026-04-07T02:40:51.583411",
     "matches": []
   }
 ]
