@@ -2,9 +2,10 @@
   {
     "product": "europatipset",
     "draw_number": 2564,
-    "system": "7S+4H+2HG",
-    "rows": 144,
-    "cost": 144,
+    "net_sale": 0,
+    "system": "0S+0H+0HG",
+    "rows": 0,
+    "cost": 0,
     "timestamp": "2026-04-07T18:00:06.578676",
     "matches": [
       {
@@ -13,9 +14,9 @@
         "away": "Bayern München",
         "folk": "36/25/39",
         "model": "38/24/38",
-        "value": 1.06,
+        "value": 1.0,
         "sign": "1",
-        "recommendation": "12",
+        "recommendation": "1X2",
         "type": "half"
       },
       {
@@ -24,10 +25,10 @@
         "away": "Arsenal",
         "folk": "17/25/58",
         "model": "22/27/50",
-        "value": 1.32,
-        "sign": "1",
-        "recommendation": "2",
-        "type": "spike"
+        "value": 1.0,
+        "sign": "2",
+        "recommendation": "1X2",
+        "type": "half"
       },
       {
         "nr": 3,
@@ -35,10 +36,10 @@
         "away": "Liverpool",
         "folk": "67/18/15",
         "model": "37/22/41",
-        "value": 2.75,
+        "value": 1.0,
         "sign": "2",
-        "recommendation": "2",
-        "type": "spike"
+        "recommendation": "1X2",
+        "type": "half"
       },
       {
         "nr": 4,
@@ -46,9 +47,9 @@
         "away": "Atlético Madrid",
         "folk": "79/14/7",
         "model": "53/23/24",
-        "value": 3.43,
-        "sign": "2",
-        "recommendation": "12",
+        "value": 1.0,
+        "sign": "1",
+        "recommendation": "1X2",
         "type": "half"
       },
       {
@@ -57,9 +58,9 @@
         "away": "Real Betis",
         "folk": "43/33/24",
         "model": "37/29/34",
-        "value": 1.4,
-        "sign": "2",
-        "recommendation": "12",
+        "value": 1.0,
+        "sign": "1",
+        "recommendation": "1X2",
         "type": "half"
       },
       {
@@ -68,10 +69,10 @@
         "away": "Southampton",
         "folk": "36/24/40",
         "model": "36/28/36",
-        "value": 1.16,
-        "sign": "X",
+        "value": 1.0,
+        "sign": "2",
         "recommendation": "1X2",
-        "type": "full"
+        "type": "half"
       },
       {
         "nr": 7,
@@ -79,10 +80,10 @@
         "away": "Rotherham",
         "folk": "49/23/28",
         "model": "36/29/34",
-        "value": 1.28,
-        "sign": "X",
+        "value": 1.0,
+        "sign": "1",
         "recommendation": "1X2",
-        "type": "full"
+        "type": "half"
       },
       {
         "nr": 8,
@@ -90,10 +91,10 @@
         "away": "Shrewsbury",
         "folk": "75/17/8",
         "model": "58/26/16",
-        "value": 2.0,
-        "sign": "2",
-        "recommendation": "1",
-        "type": "spike"
+        "value": 1.0,
+        "sign": "1",
+        "recommendation": "1X2",
+        "type": "half"
       },
       {
         "nr": 9,
@@ -101,10 +102,10 @@
         "away": "Dunfermline",
         "folk": "42/26/32",
         "model": "44/29/27",
-        "value": 1.12,
-        "sign": "X",
-        "recommendation": "1",
-        "type": "spike"
+        "value": 1.0,
+        "sign": "1",
+        "recommendation": "1X2",
+        "type": "half"
       },
       {
         "nr": 10,
@@ -112,9 +113,9 @@
         "away": "Cove Rangers",
         "folk": "57/20/23",
         "model": "41/27/32",
-        "value": 1.4,
-        "sign": "2",
-        "recommendation": "12",
+        "value": 1.0,
+        "sign": "1",
+        "recommendation": "1X2",
         "type": "half"
       },
       {
@@ -123,10 +124,10 @@
         "away": "LDU Quito",
         "folk": "52/24/24",
         "model": "44/27/29",
-        "value": 1.22,
-        "sign": "2",
-        "recommendation": "1",
-        "type": "spike"
+        "value": 1.0,
+        "sign": "1",
+        "recommendation": "1X2",
+        "type": "half"
       },
       {
         "nr": 12,
@@ -134,10 +135,10 @@
         "away": "Fluminense",
         "folk": "10/17/73",
         "model": "15/26/58",
-        "value": 1.56,
-        "sign": "X",
-        "recommendation": "2",
-        "type": "spike"
+        "value": 1.0,
+        "sign": "2",
+        "recommendation": "1X2",
+        "type": "half"
       },
       {
         "nr": 13,
@@ -145,28 +146,29 @@
         "away": "Boca Juniors",
         "folk": "17/32/51",
         "model": "28/30/42",
-        "value": 1.64,
-        "sign": "1",
-        "recommendation": "2",
-        "type": "spike"
+        "value": 1.0,
+        "sign": "2",
+        "recommendation": "1X2",
+        "type": "half"
       }
     ]
   },
   {
     "product": "stryktipset",
     "draw_number": 4948,
-    "system": "6S+5H+2HG",
-    "rows": 288,
-    "cost": 288,
-    "timestamp": "2026-04-07T18:00:06.269505",
+    "net_sale": 856034.0,
+    "system": "M 0-6",
+    "rows": 64,
+    "cost": 64,
+    "timestamp": "2026-04-08T05:34:00.465066",
     "matches": [
       {
         "nr": 1,
         "home": "Liverpool",
         "away": "Fulham",
-        "folk": "59/20/21",
-        "model": "64/20/16",
-        "value": 1.08,
+        "folk": "59/21/20",
+        "model": "62/21/17",
+        "value": 1.0,
         "sign": "1",
         "recommendation": "1",
         "type": "spike"
@@ -177,8 +179,8 @@
         "away": "Everton",
         "folk": "46/27/27",
         "model": "43/29/28",
-        "value": 1.06,
-        "sign": "X",
+        "value": 1.0,
+        "sign": "1",
         "recommendation": "1X",
         "type": "half"
       },
@@ -186,10 +188,10 @@
         "nr": 3,
         "home": "Burnley",
         "away": "Brighton",
-        "folk": "34/23/43",
-        "model": "26/28/46",
-        "value": 1.2,
-        "sign": "X",
+        "folk": "33/23/44",
+        "model": "20/24/56",
+        "value": 1.0,
+        "sign": "2",
         "recommendation": "2",
         "type": "spike"
       },
@@ -198,9 +200,9 @@
         "home": "Charlton",
         "away": "Preston",
         "folk": "43/27/30",
-        "model": "43/28/28",
-        "value": 1.06,
-        "sign": "X",
+        "model": "43/29/28",
+        "value": 1.0,
+        "sign": "1",
         "recommendation": "1X",
         "type": "half"
       },
@@ -208,9 +210,9 @@
         "nr": 5,
         "home": "Leicester",
         "away": "Swansea",
-        "folk": "46/27/27",
-        "model": "57/24/19",
-        "value": 1.25,
+        "folk": "47/26/27",
+        "model": "45/27/28",
+        "value": 1.0,
         "sign": "1",
         "recommendation": "1",
         "type": "spike"
@@ -219,10 +221,10 @@
         "nr": 6,
         "home": "Middlesbrough",
         "away": "Portsmouth",
-        "folk": "58/20/22",
-        "model": "57/23/20",
-        "value": 1.17,
-        "sign": "X",
+        "folk": "59/20/21",
+        "model": "59/23/18",
+        "value": 1.0,
+        "sign": "1",
         "recommendation": "1",
         "type": "spike"
       },
@@ -231,19 +233,19 @@
         "home": "Oxford",
         "away": "Watford",
         "folk": "41/26/33",
-        "model": "39/29/32",
-        "value": 1.12,
-        "sign": "X",
-        "recommendation": "1X2",
-        "type": "full"
+        "model": "37/29/34",
+        "value": 1.0,
+        "sign": "1",
+        "recommendation": "1X",
+        "type": "half"
       },
       {
         "nr": 8,
         "home": "Sheffield U",
         "away": "Hull",
-        "folk": "48/24/28",
-        "model": "54/27/20",
-        "value": 1.12,
+        "folk": "48/23/29",
+        "model": "52/25/23",
+        "value": 1.0,
         "sign": "1",
         "recommendation": "1",
         "type": "spike"
@@ -252,10 +254,10 @@
         "nr": 9,
         "home": "Southampton",
         "away": "Derby",
-        "folk": "53/23/24",
-        "model": "55/26/19",
-        "value": 1.12,
-        "sign": "X",
+        "folk": "54/23/23",
+        "model": "53/25/23",
+        "value": 1.0,
+        "sign": "1",
         "recommendation": "1",
         "type": "spike"
       },
@@ -264,11 +266,11 @@
         "home": "Stoke",
         "away": "Blackburn",
         "folk": "47/26/27",
-        "model": "36/30/33",
-        "value": 1.24,
-        "sign": "2",
-        "recommendation": "1X2",
-        "type": "full"
+        "model": "38/29/33",
+        "value": 1.0,
+        "sign": "1",
+        "recommendation": "12",
+        "type": "half"
       },
       {
         "nr": 11,
@@ -276,8 +278,8 @@
         "away": "Stevenage",
         "folk": "52/25/23",
         "model": "43/30/27",
-        "value": 1.2,
-        "sign": "X",
+        "value": 1.0,
+        "sign": "1",
         "recommendation": "1X",
         "type": "half"
       },
@@ -285,22 +287,22 @@
         "nr": 12,
         "home": "Doncaster",
         "away": "Reading",
-        "folk": "41/27/32",
-        "model": "46/28/26",
-        "value": 1.13,
+        "folk": "41/26/33",
+        "model": "46/27/26",
+        "value": 1.0,
         "sign": "1",
-        "recommendation": "1X",
-        "type": "half"
+        "recommendation": "1",
+        "type": "spike"
       },
       {
         "nr": 13,
         "home": "Huddersfield",
         "away": "Wycombe",
-        "folk": "48/27/25",
-        "model": "29/27/44",
-        "value": 1.75,
-        "sign": "2",
-        "recommendation": "X2",
+        "folk": "48/28/24",
+        "model": "41/28/30",
+        "value": 1.0,
+        "sign": "1",
+        "recommendation": "12",
         "type": "half"
       }
     ]
@@ -308,27 +310,30 @@
   {
     "product": "topptipset",
     "draw_number": 4066,
-    "system": "4S+3H+1HG",
-    "rows": 24,
-    "cost": 24,
+    "net_sale": 0,
+    "system": "0S+0H+0HG",
+    "rows": 0,
+    "cost": 0,
     "timestamp": "2026-04-07T18:00:07.000823",
     "matches": []
   },
   {
     "product": "topptipset extra",
     "draw_number": 1823,
-    "system": "4S+3H+1HG",
-    "rows": 24,
-    "cost": 24,
+    "net_sale": 0,
+    "system": "0S+0H+0HG",
+    "rows": 0,
+    "cost": 0,
     "timestamp": "2026-04-07T18:00:06.907543",
     "matches": []
   },
   {
     "product": "topptipset stryk",
     "draw_number": 958,
-    "system": "4S+3H+1HG",
-    "rows": 24,
-    "cost": 24,
+    "net_sale": 0,
+    "system": "0S+0H+0HG",
+    "rows": 0,
+    "cost": 0,
     "timestamp": "2026-04-07T18:00:07.065578",
     "matches": []
   }
